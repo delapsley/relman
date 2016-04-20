@@ -1,5 +1,5 @@
-RMT: Release Management Tool
-============================
+Relman: Release Manager
+=======================
 
 JIRA automation in a nutshell.
 
