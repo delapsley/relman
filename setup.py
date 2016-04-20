@@ -21,7 +21,7 @@ setuptools.setup(
     long_description='Release manager - Automation Toolkit',
     classifiers=[
         "Topic :: Software Development :: Build Tools",
-        "Topic :: Software Development :: Documentation"
+        "Topic :: Software Development :: Documentation",
         "Development Status :: 4 - Beta",
         "Operating System :: POSIX :: Linux",
         "Programming Language :: Python",
