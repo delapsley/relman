@@ -1,0 +1,5 @@
+rst2pdf
+ipython
+jira
+confluence
+mock

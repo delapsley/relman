@@ -1,0 +1,2 @@
+recursive-include relman *.py
+include *requirements.txt
