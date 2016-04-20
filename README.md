@@ -38,11 +38,11 @@ Activate the venv:
 
 Install the application:
 
-    $ pip install rmt
+    $ pip install relman
 
 ### System Installation
 
 This will install the application into system directories:
 
-    $ sudo pip install rmt
+    $ sudo pip install relman
 
