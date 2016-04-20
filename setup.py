@@ -15,7 +15,7 @@ def load_requirements(filename):
 
 
 setuptools.setup(
-    name="relman",
+    name="relmanager",
     version=relman.__version__,
     description="Release manager",
     long_description='Release manager - Automation Toolkit',
